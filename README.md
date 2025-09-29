@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth107" alt="siddharth107" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sidds2000" target="blank"><img src="https://img.shields.io/twitter/follow/sidds2000?logo=twitter&style=for-the-badge" alt="sidds2000" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/siddharthmohapatra-dataanalyst/" target="blank"><img src="https://img.shields.io/twitter/follow/sidds2000?logo=twitter&style=for-the-badge" alt="SID" /></a> </p>
 
 - 🔭 I’m currently working on [Real Time ECommerce Data Processing and Analytics using Medallion architecture on Azure Cloud](https://github.com/SIDDHARTH107/Real-Time-E-Commerce-Data-Processing-and-Analytics-using-Medallion-architecture-on-Azure-Cloud)
 
